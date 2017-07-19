@@ -1,2 +1,3 @@
 Java is a Ocean. Which includes lot of other technologies for the develeoping a complete project.
 for a full stack java developer we have to be able to handle the front end and backend operations as well.
+devops is different from java
